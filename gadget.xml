@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+<name>ISS Livestream Windows 7 Gadget</name>
+<version>1.0.0.2</version>
+<author name="Largo">
+<info url="" />
+</author>
+<copyright>&#169; Largo</copyright>
+<description></description>
+<hosts>
+<host name="sidebar">
+<base type="HTML" apiVersion="1.0.0" src="client.html" />
+<permissions>Full</permissions>
+<platform minPlatformVersion="1.0" />
+</host>
+</hosts>
+</gadget>
